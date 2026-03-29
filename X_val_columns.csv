@@ -1,0 +1,26 @@
+0
+generation biomass
+generation fossil brown coal/lignite
+generation fossil gas
+generation fossil hard coal
+generation fossil oil
+generation hydro pumped storage consumption
+generation hydro run-of-river and poundage
+generation hydro water reservoir
+generation nuclear
+generation other
+generation other renewable
+generation solar
+generation waste
+generation wind onshore
+forecast solar day ahead
+forecast wind onshore day ahead
+total load forecast
+total load actual
+price day ahead
+year
+month
+day
+hour
+dayofweek
+weekofyear
